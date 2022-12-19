@@ -1,0 +1,19 @@
+{
+    "name": "node-file-manager",
+    "version": "1.0.0",
+    "description": "https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/DarkSpace76/node-file-manager.git"
+    },
+    "keywords": [
+        "nodejs",
+        "file-manager",
+        "DarkSpase76"
+    ],
+    "author": "DarkSpase76"
+}
