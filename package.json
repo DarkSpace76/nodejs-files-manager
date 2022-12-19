@@ -1,5 +1,5 @@
 {
-    "name": "node-file-manager",
+    "name": "nodejs-files-manager",
     "version": "1.0.0",
     "description": "https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
     "type": "module",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/DarkSpace76/node-file-manager.git"
+        "url": "git+https://github.com/DarkSpace76/nodejs-files-manager.git"
     },
     "keywords": [
         "nodejs",
